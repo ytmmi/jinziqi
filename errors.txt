@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/rpy/screens.rpy", line 349: 'text_color' is not a keyword argument or valid child of the text statement.
+    text_color "#595951"
+              ^
+
+Ren'Py Version: Ren'Py 8.2.1.24030407
+Fri Jul  5 15:36:24 2024
