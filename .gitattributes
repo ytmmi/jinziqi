@@ -2,3 +2,5 @@
 * text=auto
 *.rpy
 .vscode/
+cache/
+log.txt
